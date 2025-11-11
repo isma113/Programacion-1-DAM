@@ -1,0 +1,13 @@
+Boletín de listas SIN strings en ejecución; solo while, if y listas; variables con nombres claros.
+Archivos:
+01_buscar_codigo_en_lista.py
+02_demostracion_slicing_indices.py
+03_operaciones_con_listas_basicas.py
+04_leer_mostrar_inverso.py
+05_tres_columnas_aleatorio_cuadrado_cubo.py
+06_indicar_maximo_minimo_con_codigos.py
+07_temperaturas_mes_en_numeros.py
+08_temperaturas_barras_longitud_entera.py
+09_rotacion_derecha_una_posicion.py
+10_rotacion_derecha_n_veces.py
+11_reordenar_pares_impares.py

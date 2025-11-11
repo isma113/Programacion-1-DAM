@@ -1,0 +1,7 @@
+Boletín SOLO CADENAS con variables legibles y código básico:
+01_frases_texto.py
+02_iniciales_mayus.py
+03_primera_y_ultima_mayus.py
+04_sustituir_primer_caracter.py
+05_sustituir_validando_longitud.py
+06_miles_con_puntos.py
